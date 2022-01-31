@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @schiz4v
 - 👀 I’m interested in Computers, Information Technology and Information Systems
 - 🌱 I’m currently learning in secondary school, preparing for Singapore-Cambridge GCE Normal (Academic) Level
-- 😁 I just want to dive further into the technology industry and I lack the knowledge of what you can actually do in github
+- 😁 I just want to dive further into the technology industry and I lack the knowledge of what is github as a platform (PS: I made this account out of curiosity)
 - 💞️ I’m looking to collaborate on (not yet)
 - 📫 How to reach me (not yet)
 
